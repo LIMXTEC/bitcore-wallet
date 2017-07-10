@@ -4,7 +4,7 @@
 <b>OMINAISUUDET</b>
 
 • Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
-• Mahdollisuus näyttää Bitcoin-varat määrissä BTC, mBTC ja µBTC.
+• Mahdollisuus näyttää Bitcoin-varat määrissä BTX, mBTX ja µBTX.
 • Yksikkömuunnos valtioiden valuuttojen välillä.
 • Bitcoinien lähettäminen ja vastaanottaminen NFC, QR-koodien tai Bitcoin-URL-osotteiden avulla.
 • Osoitekirja säännöllisesti käytettyjä Bitcoin-osoitteita varten.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>SUOSITTELUMME</b>
 
-• Useat mobiililompakot perustuvat Bitcoin Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info ja BTCX.
+• Useat mobiililompakot perustuvat Bitcoin Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info ja BTXX.
 • https://bitcoin.org -sivuston suosittelema mobiililompakko.
 • BitPay:n suosittelema.
 

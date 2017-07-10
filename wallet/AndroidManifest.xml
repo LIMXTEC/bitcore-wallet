@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="de.schildbach.wallet_test"
+    package="cc.bitcore.wallet"
     android:installLocation="internalOnly"
-    android:versionCode="305"
-    android:versionName="5.25-test" >
+    android:versionCode="14110"
+    android:versionName="0.14.1.1" >
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="25"
+        android:targetSdkVersion="24"
         tools:ignore="OldTargetApi" />
 
     <!-- normal permissions -->
@@ -58,12 +58,12 @@
         android:xlargeScreens="true" />
 
     <application
-        android:name="de.schildbach.wallet.WalletApplication"
+        android:name="cc.bitcore.wallet.WalletApplication"
         android:allowBackup="false"
         android:icon="@mipmap/ic_app_color_48dp"
         android:label="@string/app_name" >
         <activity
-            android:name="de.schildbach.wallet.ui.WalletActivity"
+            android:name="cc.bitcore.wallet.ui.WalletActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:exported="true"
             android:label="@string/app_name_short"
@@ -71,8 +71,8 @@
             android:theme="@style/My.Theme" />
 
         <activity-alias
-            android:name="de.schildbach.wallet.WalletActivity"
-            android:targetActivity="de.schildbach.wallet.ui.WalletActivity" >
+            android:name="cc.bitcore.wallet.WalletActivity"
+            android:targetActivity="cc.bitcore.wallet.ui.WalletActivity" >
             <intent-filter android:label="@string/app_name_short" >
                 <action android:name="android.intent.action.MAIN" />
 
@@ -81,7 +81,7 @@
             <intent-filter>
                 <action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-                <data android:mimeType="application/x-btctx" />
+                <data android:mimeType="application/x-btxtx" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
@@ -92,7 +92,7 @@
         </activity-alias>
 
         <activity
-            android:name="de.schildbach.wallet.ui.send.SendCoinsActivity"
+            android:name="cc.bitcore.wallet.ui.send.SendCoinsActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:label="@string/send_coins_activity_title"
             android:screenOrientation="behind"
@@ -101,7 +101,7 @@
             <intent-filter android:label="@string/send_coins_activity_title" >
                 <action android:name="android.intent.action.VIEW" />
 
-                <data android:scheme="bitcoin" />
+                <data android:scheme="bitcore" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -109,62 +109,62 @@
             <intent-filter android:label="@string/send_coins_activity_title" >
                 <action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-                <data android:scheme="bitcoin" />
+                <data android:scheme="bitcore" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter android:label="@string/send_coins_activity_title" >
                 <action android:name="android.intent.action.VIEW" />
 
-                <data android:mimeType="application/bitcoin-paymentrequest" />
+                <data android:mimeType="application/bitcore-paymentrequest" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter android:label="@string/send_coins_activity_title" >
                 <action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-                <data android:mimeType="application/bitcoin-paymentrequest" />
+                <data android:mimeType="application/bitcore-paymentrequest" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity
-            android:name="de.schildbach.wallet.ui.SendCoinsQrActivity"
+            android:name="cc.bitcore.wallet.ui.SendCoinsQrActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" >
         </activity>
         <activity
-            android:name="de.schildbach.wallet.ui.RequestCoinsActivity"
+            android:name="cc.bitcore.wallet.ui.RequestCoinsActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:label="@string/request_coins_activity_title"
             android:screenOrientation="behind"
             android:theme="@style/My.Theme.ChildActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="de.schildbach.wallet.ui.AddressBookActivity"
+            android:name="cc.bitcore.wallet.ui.AddressBookActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:label="@string/address_book_activity_title"
             android:screenOrientation="behind"
             android:theme="@style/My.Theme.ChildActivity" />
         <activity
-            android:name="de.schildbach.wallet.ui.ExchangeRatesActivity"
+            android:name="cc.bitcore.wallet.ui.ExchangeRatesActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:label="@string/exchange_rates_activity_title"
             android:screenOrientation="behind"
             android:theme="@style/My.Theme.ChildActivity" />
         <activity
-            android:name="de.schildbach.wallet.ui.NetworkMonitorActivity"
+            android:name="cc.bitcore.wallet.ui.NetworkMonitorActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:label="@string/network_monitor_activity_title"
             android:screenOrientation="behind"
             android:theme="@style/My.Theme.ChildActivity" />
         <activity
-            android:name="de.schildbach.wallet.ui.preference.PreferenceActivity"
+            android:name="cc.bitcore.wallet.ui.preference.PreferenceActivity"
             android:label="@string/preferences_activity_title"
             android:screenOrientation="behind"
             android:theme="@style/My.Theme.ChildActivity" />
         <activity
-            android:name="de.schildbach.wallet.ui.RestoreWalletActivity"
+            android:name="cc.bitcore.wallet.ui.RestoreWalletActivity"
             android:configChanges="orientation|keyboard|keyboardHidden"
             android:theme="@style/My.Theme.Dialog" >
             <intent-filter android:label="@string/import_keys_intent_filter_action" >
@@ -172,18 +172,18 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
 
-                <data android:mimeType="application/x-bitcoin-wallet-backup" />
+                <data android:mimeType="application/x-bitcore-wallet-backup" />
             </intent-filter>
         </activity>
         <activity
-            android:name="de.schildbach.wallet.ui.ScanActivity"
+            android:name="cc.bitcore.wallet.ui.ScanActivity"
             android:configChanges="orientation|keyboard|keyboardHidden"
             android:screenOrientation="landscape"
             android:stateNotNeeded="true"
             android:theme="@style/My.Theme.Fullscreen"
             android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
-            android:name="de.schildbach.wallet.ui.send.SweepWalletActivity"
+            android:name="cc.bitcore.wallet.ui.send.SweepWalletActivity"
             android:configChanges="keyboard|keyboardHidden"
             android:label="@string/sweep_wallet_activity_title"
             android:screenOrientation="behind"
@@ -191,21 +191,21 @@
             android:windowSoftInputMode="adjustResize" />
 
         <provider
-            android:name="de.schildbach.wallet.data.AddressBookProvider"
-            android:authorities="de.schildbach.wallet_test.address_book"
+            android:name="cc.bitcore.wallet.data.AddressBookProvider"
+            android:authorities="cc.bitcore.wallet.address_book"
             android:exported="false" />
         <provider
-            android:name="de.schildbach.wallet.data.ExchangeRatesProvider"
-            android:authorities="de.schildbach.wallet_test.exchange_rates"
+            android:name="cc.bitcore.wallet.data.ExchangeRatesProvider"
+            android:authorities="cc.bitcore.wallet.exchange_rates"
             android:exported="false" />
         <provider
-            android:name="de.schildbach.wallet.util.FileAttachmentProvider"
-            android:authorities="de.schildbach.wallet_test.file_attachment"
+            android:name="cc.bitcore.wallet.util.FileAttachmentProvider"
+            android:authorities="cc.bitcore.wallet.file_attachment"
             android:exported="false"
             android:grantUriPermissions="true" />
 
         <receiver
-            android:name="de.schildbach.wallet.WalletBalanceWidgetProvider"
+            android:name="cc.bitcore.wallet.WalletBalanceWidgetProvider"
             android:label="@string/appwidget_wallet_balance_title" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
@@ -217,13 +217,13 @@
         </receiver>
 
         <service
-            android:name="de.schildbach.wallet.service.BlockchainServiceImpl"
+            android:name="cc.bitcore.wallet.service.BlockchainServiceImpl"
             android:exported="false" />
         <service
-            android:name="de.schildbach.wallet.offline.AcceptBluetoothService"
+            android:name="cc.bitcore.wallet.offline.AcceptBluetoothService"
             android:exported="false" />
 
-        <receiver android:name="de.schildbach.wallet.service.BootstrapReceiver" >
+        <receiver android:name="cc.bitcore.wallet.service.BootstrapReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
@@ -233,10 +233,10 @@
         </receiver>
 
         <service
-            android:name="de.schildbach.wallet.service.UpgradeWalletService"
+            android:name="cc.bitcore.wallet.service.UpgradeWalletService"
             android:exported="false" />
         <service
-            android:name="de.schildbach.wallet.service.InactivityNotificationService"
+            android:name="cc.bitcore.wallet.service.InactivityNotificationService"
             android:exported="false" />
 
         <meta-data

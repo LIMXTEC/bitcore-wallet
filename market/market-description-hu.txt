@@ -4,7 +4,7 @@
 <b>JELLEMZŐK</b>
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
-• Bitcoin összeg megjelenítési módok: BTC, mBTC és µBTC.
+• Bitcoin összeg megjelenítési módok: BTX, mBTX és µBTX.
 • Átváltás a saját valutádra, oda-vissza.
 • Bitcoin küldés és fogadás NFC-n, QR kódokon vagy Bitcoin URL-eken keresztül.
 • Címtár a rendszeresen használt Bitcoin címek számára.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>AJÁNLÓLEVELEK</b>
 
-• Sok mobiltárca a Bitcoin Wallet-re alapozza a kódját. Például: blockchain.info és BTCX.
+• Sok mobiltárca a Bitcoin Wallet-re alapozza a kódját. Például: blockchain.info és BTXX.
 • Ajánlott mobiltárca a https://bitcoin.org által
 • Ajánlva a BitPay által.
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package de.schildbach.wallet.integration.sample;
+package cc.bitcore.wallet.integration.sample;
 
 import org.bitcoin.protocols.payments.Protos;
 import org.bitcoinj.core.Address;
@@ -37,7 +37,7 @@ import android.widget.Toast;
 
 import com.google.protobuf.ByteString;
 
-import de.schildbach.wallet.integration.android.BitcoinIntegration;
+import cc.bitcore.wallet.integration.android.BitcoinIntegration;
 
 /**
  * @author Andreas Schildbach

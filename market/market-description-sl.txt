@@ -3,7 +3,7 @@ Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-ko
 LASTNOSTI:
 
 • Potrebna ni nobena registracija, spletna storitev ali oblak! Ta denarnica deluje povsem decentralizirano in vrstniško.
-• Prikaz zneskov v BTC, mBTC ali µBTC.
+• Prikaz zneskov v BTX, mBTX ali µBTX.
 • Samodejna pretvorba v evre in druge lokalne valute.
 • Pošiljanje in prejemanje bitcoinov prek NFC, QR-kod ali bitcoin URL-jev.
 • Zasebni imenik bitcoin naslovov.

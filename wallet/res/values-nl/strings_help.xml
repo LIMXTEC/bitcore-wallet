@@ -29,7 +29,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Deze dialoog kunt u gebruiken om bitcoins te verzoeken van iemand (die ook Bitcoin Wallet of een andere Bitcoin client geinstalleerd heeft).
+			Deze dialoog kunt u gebruiken om bitcoins te verzoeken van iemand (die ook Bitcore Wallet of een andere Bitcore client geinstalleerd heeft).
 		</p>
 		<p>
 			Eerst vul je een hoeveelheid bitcoin in die je wilt ontvangen.
@@ -37,10 +37,10 @@
 		<p>
 			Daarna kan de andere persoon de QR-code scannen.
 			Of u kunt uw verzoek met de \'delen\'-knop versturen.
-			De andere persoon dient op de Bitcoin URL te klikken.
+			De andere persoon dient op de Bitcore URL te klikken.
 		</p>
 		<p>
-			De andere persoon zal nu de dialoog te zien krijgen voor het verzenden van Bitcoins waarin alle velden ingevuld zijn.
+			De andere persoon zal nu de dialoog te zien krijgen voor het verzenden van Bitcore waarin alle velden ingevuld zijn.
 			Als er akkoord gegaan wordt met de transactie hoeft deze alleen nog verzonden te worden.
 		</p>
 	]]>
@@ -48,16 +48,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			U heeft het dialoog gestart om Bitcoins te verzenden.
-			U bent hier terecht gekomen via het hoofd scherm of door het klikken op een Bitcoin URL in uw browser.
+			U heeft het dialoog gestart om Bitcore te verzenden.
+			U bent hier terecht gekomen via het hoofd scherm of door het klikken op een Bitcore URL in uw browser.
 		</p>
 		<p>
-			Als eerste geeft u het Bitcoin adres in waar naar u wilt betalen.
+			Als eerste geeft u het Bitcore adres in waar naar u wilt betalen.
 			Het adres zal automatisch aangevuld worden als deze bekend is in het adresboek.
-			U kan ook QR-codes scannen met een Bitcoin adres of verzoek door op de QR knop in de actie-balk te klikken.
+			U kan ook QR-codes scannen met een Bitcore adres of verzoek door op de QR knop in de actie-balk te klikken.
 		</p>
 		<p>
-			Vervolgens kunt u zien hoe veel Bitcoins op dit moment beschikbaar zijn voor besteding.
+			Vervolgens kunt u zien hoe veel Bitcore op dit moment beschikbaar zijn voor besteding.
 			Het eventuele verschil met het saldo van het hoofdscherm is nog onbevestigd en kan dus nog niet worden uitgegeven.
 		</p>
 		<p>
@@ -65,7 +65,7 @@
 		</p>
 		<p>
 			U kunt ook transacties ingeven terwijl u offline bent.
-			Deze transacties zullen verzonden worden zodra Bitcoin Wallet de volgende keer gestart wordt en online is.
+			Deze transacties zullen verzonden worden zodra Bitcore Wallet de volgende keer gestart wordt en online is.
 			Als u wenst dat uw transacties zo snel mogelijk verwerkt worden is het verstandig om verbonden te zijn met een zo goed mogelijke internet verbinding (d.w.z. op WLAN).
 		</p>
 		<p>
@@ -78,20 +78,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Enkele woorden over de veiligheid van uw Bitcoins:</b>
+			<b>Enkele woorden over de veiligheid van uw Bitcore:</b>
 		</p>
 		<p>
-			Bitcoins in Bitcoin Wallet zijn opgeslagen op het apparaat.
-			<b>Als u uw apparaat verliest zullen deze Bitcoins ook verloren zijn.</b>
+			Bitcore in Bitcore Wallet zijn opgeslagen op het apparaat.
+			<b>Als u uw apparaat verliest zullen deze Bitcore ook verloren zijn.</b>
 			Vergelijkbaar met het verlies van uw portemonnee.
 		</p>
 		<p>
-			<b>Voor het verwijderen van Bitcoin Wallet</b> (of verschonen van app data of wipe van het apparaat), <b>dient u de bitcoins over te zetten naar een andere wallet.</b>.
-			Overblijvende Bitcoins zullen verloren gaan.
+			<b>Voor het verwijderen van Bitcore Wallet</b> (of verschonen van app data of wipe van het apparaat), <b>dient u de bitcoins over te zetten naar een andere wallet.</b>.
+			Overblijvende Bitcore zullen verloren gaan.
 		</p>
 		<p>
-			<b>Transacties met Bitcoin kunnen niet ongedaan gemaakt worden</b>.
-			Als u Bitcoins naar een onbekend adres stuurt zijn ze onmogelijk terug te krijgen tenzij u de eigenaar kent en deze bereid is de Bitcoins terug te sturen.
+			<b>Transacties met Bitcore kunnen niet ongedaan gemaakt worden</b>.
+			Als u Bitcore naar een onbekend adres stuurt zijn ze onmogelijk terug te krijgen tenzij u de eigenaar kent en deze bereid is de Bitcore terug te sturen.
 		</p>
 		<p>
 			<b>Houd uw Android apparaat veilig!</b>
@@ -100,7 +100,7 @@
 		</p>
 		<p>
 			Houd het risico laag!
-			<b>Gebruik Bitcoin Wallet alleen voor kleine bedragen</b> voor dagelijks gebruik.
+			<b>Gebruik Bitcore Wallet alleen voor kleine bedragen</b> voor dagelijks gebruik.
 		</p>
 	]]>
 	</string>

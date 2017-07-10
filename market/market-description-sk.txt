@@ -3,7 +3,7 @@ Bitcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou Q
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Bitcoinov v BTC alebo mBTC.
+• Zobrazenie zostatku Bitcoinov v BTX alebo mBTX.
 • Prepočet hodnoty Bitcoinov do viacerých cudzích mien.
 • Posielanie a prijímanie Bitcoinov pomocou NFC, QR kódov alebo Bitcoin adries.
 • Adresár pre často používané Bitcoin adresy.

@@ -7,7 +7,7 @@
 			Toquez pour atteindre la liste des monnaies nationales et toquez sur l\'une d\'elles pour la choisir par défaut.
 		</p>
 		<p>
-			Le code QR en haut à droite contient votre adresse Bitcoin actuelle et peut être lu par un payeur.
+			Le code QR en haut à droite contient votre adresse Bitcore actuelle et peut être lu par un payeur.
 			Toquez sur le code QR pour l\'agrandir.
 		</p>
 		<p>
@@ -46,7 +46,7 @@
 			Vous avez amorcé le processus d\'envoi de bitcoins.
 		</p>
 		<p>
-			Saisissez d\'abord l\'adresse Bitcoin de destination.
+			Saisissez d\'abord l\'adresse Bitcore de destination.
 			L\'adresse sera saisie automatiquement pour les entrées connues de votre carnet d\'adresses.
 			Vous pourrez aussi lire un code QR présenté par le bénéficiaire du paiement en pressant sur le bouton de l\'appareil photo.
 		</p>
@@ -58,7 +58,7 @@
 		</p>
 		<p>
 			Vous pouvez saisir un paiement alors que vous êtes hors ligne.
-			Il sera envoyé lors du prochain démarrage de Bitcoin Wallet.
+			Il sera envoyé lors du prochain démarrage de Bitcore Wallet.
 			Pour que le paiement soit traité aussi rapidement que possible, assurez-vous d\'être bien connecté (c.-à-d. sur un WLAN).
 		</p>
 		<p>
@@ -108,7 +108,7 @@
 			<b>Notes techniques :</b>
 		</p>
 		<p>
-			En tant que porte-monnaie VPS (vérification de paiement simplifiée), léger, le porte-monnaie Bitcoin Wallet suit la chaîne de la plus grande preuve de travail (parfois aussi appelé « la chaîne à la plus longue », « la chaîne gagnante », ou la « chaîne de blocs Bitcoin »).
+			En tant que porte-monnaie VPS (vérification de paiement simplifiée), léger, le porte-monnaie Bitcore Wallet suit la chaîne de la plus grande preuve de travail (parfois aussi appelé « la chaîne à la plus longue », « la chaîne gagnante », ou la « chaîne de blocs Bitcore »).
 			Vous ne pourrez recevoir des paiements entrants et ne pourrez payer que sur cette chaîne.
 			Il ne peut y avoir aucune garantie sur les bitcoins des chaînes minoritaires, c\'est-à-dire les chaînes avec moins de preuve de travail.
 		</p>

@@ -4,7 +4,7 @@
 <b>CARACTÉRISTIQUES</b>
 
 • Aucune inscription, service Web ou nuage requis ! Ce porte-monnaie est décentralisé et de pair-à-pair.
-• Affichage du montant de bitcoins en BTC, mBTC et µBTC.
+• Affichage du montant de bitcoins en BTX, mBTX et µBTX.
 • Conversion vers et à partir de monnaies nationales.
 • Envoi et réception de bitcoins par NFC, codes QR ou URL Bitcoin.
 • Un carnet d'adresses pour les adresses Bitcoin utilisées régulièrement.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>TÉMOIGNAGES</b>
 
-• De nombreux porte-monnaie mobiles fondent leur code sur Bitcoin Wallet. Par exemples : blockchain.info et BTCX.
+• De nombreux porte-monnaie mobiles fondent leur code sur Bitcoin Wallet. Par exemples : blockchain.info et BTXX.
 • Porte-monnaie mobile recommandé par https://bitcoin.org
 • Recommandé par BitPay.
 

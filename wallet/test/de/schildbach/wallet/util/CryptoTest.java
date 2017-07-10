@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package de.schildbach.wallet.util;
+package cc.bitcore.wallet.util;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
@@ -90,11 +90,11 @@ public class CryptoTest {
 
     @Test
     public void backups() throws Exception {
-        final byte[] backup = Crypto.decryptBytes(readBackupFromResource("bitcoin-wallet-backup-testnet-3.50"),
+        final byte[] backup = Crypto.decryptBytes(readBackupFromResource("bitcore-wallet-backup-testnet-3.50"),
                 PASSWORD);
         assertTrue(WalletProtobufSerializer.isWallet(new ByteArrayInputStream(backup)));
 
-        final byte[] backupCrLf = Crypto.decryptBytes(readBackupFromResource("bitcoin-wallet-backup-testnet-3.50-crlf"),
+        final byte[] backupCrLf = Crypto.decryptBytes(readBackupFromResource("bitcore-wallet-backup-testnet-3.50-crlf"),
                 PASSWORD);
         assertTrue(WalletProtobufSerializer.isWallet(new ByteArrayInputStream(backupCrLf)));
     }

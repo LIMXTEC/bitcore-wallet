@@ -4,7 +4,7 @@
 <b>FUNKCE</b>
 
 • Není třeba žádná registrace, webová služba ani cloud! Toto je peer to peer decentralizovaná peněženka.
-• Zobrazení Bitcoin částek v BTC, mBTC a µBTC.
+• Zobrazení Bitcoin částek v BTX, mBTX a µBTX.
 • Přepočet z a do národních měn.
 • Odesílání a přijímání plateb přes NFC, QR kódy nebo Bitcoin URL.
 • Adresář pro často používané Bitcoin adresy.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>UZNÁNÍ</b>
 
-• Mnoho mobilních peněženek využívá zdrojový kód Bitcoin Wallet. Například: blockchain.info a BTCX.
+• Mnoho mobilních peněženek využívá zdrojový kód Bitcoin Wallet. Například: blockchain.info a BTXX.
 • Doporučená mobilní peněženka stránkou https://bitcoin.org
 • Doporučeno službou BitPay.
 

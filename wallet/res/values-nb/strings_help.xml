@@ -7,7 +7,7 @@
 			Trykk for å gå til listen over nasjonale valutaer, og trykk så på en av valutaene for å velge den som standard.
 		</p>
 		<p>
-			QR-koden til høyre inneholder din Bitcoin-adresse og kan brukes til skanning av noen andre.
+			QR-koden til høyre inneholder din Bitcore-adresse og kan brukes til skanning av noen andre.
 			Trykk på QR-koden for å få en større versjon av den.
 		</p>
 		<p>
@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
     <p>
-      Ved å bruke denne dialogen kan du be om mynter fra en annen person (som allerede har installert Bitcoin Wallet).
+      Ved å bruke denne dialogen kan du be om mynter fra en annen person (som allerede har installert Bitcore Wallet).
     </p>
     <p>
       Først kan du legge inn et beløp på antall bitcoins som skal forespørres.
@@ -32,7 +32,7 @@
     <p>
       Etterpå får du enten QR-koden skannet av den andre personen,
       eller så kan du sende en forespørsel til en person langt unna med del-knappen i handlingsfeltet.
-      Den andre personen skal klikke på Bitcoin-URLen.
+      Den andre personen skal klikke på Bitcore-URLen.
     </p>
     <p>
       Den andre personen vil bli presentert en dialog for å sende mynter med alle felt forhåndsutfylt.
@@ -44,12 +44,12 @@
 <![CDATA[
     <p>
       Du har startet prosessen med å sende mynter.
-      Du kom hit enten via hovedskjermen eller ved å klikke på en Bitcoin-URL i nettleseren på mobilen.
+      Du kom hit enten via hovedskjermen eller ved å klikke på en Bitcore-URL i nettleseren på mobilen.
     </p>
     <p>
-      Først skriver du inn den Bitcoin-adressen du vil betale til.
+      Først skriver du inn den Bitcore-adressen du vil betale til.
       Adressen vil automatisk fylles ut fra kjente oppføringer i adresseboken din.
-      Du kan også skanne QR-koder med Bitcoin-adresser eller Bitcoin-forespørsler ved å trykke på QR-knappen i handlingsfeltet.
+      Du kan også skanne QR-koder med Bitcore-adresser eller Bitcore-forespørsler ved å trykke på QR-knappen i handlingsfeltet.
     </p>
     <p>
       Deretter kan du se hvor mange bitcoins du kan bruke for øyeblikket.
@@ -60,7 +60,7 @@
     </p>
     <p>
       Du kan legge inn en betaling mens du er offline.
-      Den vil bli sendt når Bitcoin Wallet startes på nytt.
+      Den vil bli sendt når Bitcore Wallet startes på nytt.
       Hvis du ønsker at en betaling går igjennom så raskt som mulig, sørg for at du er godt tilkoblet (dvs. på et WLAN).
     </p>
     <p>
@@ -76,7 +76,7 @@
       <b>Viktige sikkerhetsmerknader:</b>
     </p>
     <p>
-      Bitcoins er lagret på enheten.
+      Bitcore er lagret på enheten.
       <b>Hvis du mister den, mister du dine bitcoins.</b>
     </p>
     <p>
@@ -110,7 +110,7 @@
       <b>Tekniske notater:</b>
     </p>
     <p>
-      Som SPV-lommebok, følger Bitcoin Wallet den blokkjeden med mest proof-of-work (noen ganger også kalt den \"lengste kjeden\", den \"vinnende kjeden\" eller \"Bitcoin-Blockchain\").
+      Som SPV-lommebok, følger Bitcore Wallet den blokkjeden med mest proof-of-work (noen ganger også kalt den \"lengste kjeden\", den \"vinnende kjeden\" eller \"Bitcore-Blockchain\").
       Du vil bare motta innbetalinger og være i stand til å betale på denne kjeden.
       Ingen garantier kan gis for bitcoin på minoritetskjeder, som er kjeder med mindre proof-of-work.
     </p>

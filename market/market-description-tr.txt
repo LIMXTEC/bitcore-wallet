@@ -4,7 +4,7 @@
 <b>ÖZELLİKLER</b>
 
 • Kayıt olmaya, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Bitcoin miktarını BTC, mBTC ve µBTC olarak göster.
+• Bitcoin miktarını BTX, mBTX ve µBTX olarak göster.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
 • QR kodları, Bitcoin bağlantıları ve yakın alan iletişimi ile Bitcoin alımı ve gönderilmesi.
 • Sık kullanılan Bitcoin adresleri için adres defteri içerir.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>REFERANSLAR</b>
 
-• Birçok mobil cüzdan kodları için Bitcoin Wallet'i temel alırlar. Mesela blockchain.info ve BTCX.
+• Birçok mobil cüzdan kodları için Bitcoin Wallet'i temel alırlar. Mesela blockchain.info ve BTXX.
 • https://bitcoin.org tarafından tavsiye edilen mobil cüzdan.
 • BitPay tarafından tavsiye edilir.
 

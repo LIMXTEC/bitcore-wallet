@@ -4,7 +4,7 @@
 <b>FUNKTIONER</b>
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af Bitcoin-beløb i BTC, mBTC og µBTC.
+• Visning af Bitcoin-beløb i BTX, mBTX og µBTX.
 • Konvertering til og fra lokale valutaer.
 • Afsendelse og modtagelse af Bitcoin via NFC, QR-koder eller Bitcoin-URLer.
 • Adressebog til ofte brugte Bitcoin-adresser.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>ANBEFALINGER</b>
 
-• Mange mobile tegnebøger baserer deres kode på Bitcoin Wallet. Eksempler: blockchain.info og BTCX.
+• Mange mobile tegnebøger baserer deres kode på Bitcoin Wallet. Eksempler: blockchain.info og BTXX.
 • Anbefalet mobil-tegnebog af https://bitcoin.org
 • Anbefalet af BitPay.
 

@@ -4,7 +4,7 @@
 <b>FEATURES</b>
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of Bitcoin amount in BTC, mBTC and µBTC.
+• Display of Bitcoin amount in BTX, mBTX and µBTX.
 • Conversion to and from national currencies.
 • Sending and receiving of Bitcoin via NFC, QR codes or Bitcoin URLs.
 • Address book for regularly used Bitcoin addresses.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>TESTIMONIALS</b>
 
-• Many mobile wallets base their code on Bitcoin Wallet. Examples: blockchain.info and BTCX.
+• Many mobile wallets base their code on Bitcoin Wallet. Examples: blockchain.info and BTXX.
 • Recommended mobile wallet by https://bitcoin.org
 • Recommended by BitPay.
 

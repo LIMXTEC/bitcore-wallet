@@ -4,7 +4,7 @@
 <b>EIGENSCHAPPEN</b>
 
 • Geen registratie, webservice of cloud vereist! Deze portemonnee is decentraal en peer-to-peer.
-• Toon Bitcoin bedrag in BTC, mBTC en µBTC.
+• Toon Bitcoin bedrag in BTX, mBTX en µBTX.
 • Conversie van en naar nationale valuta.
 * Verzend en ontvang Bitcoin via NFC, QR-codes of Bitcoin-URL's
 • Adresboek voor regelmatig gebruikte Bitcoin-adressen.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>TESTIMONIALS</b>
 
-* Veel mobiele portemonnees baseren hun code op Bitcoin Wallet. Voorbeelden: blockchain.info en BTCX.
+* Veel mobiele portemonnees baseren hun code op Bitcoin Wallet. Voorbeelden: blockchain.info en BTXX.
 * Aanbevolen mobiele portemonnee op https://bitcoin.org
 * Aangeraden door BitPay.
 

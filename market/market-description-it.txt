@@ -4,7 +4,7 @@
 <b>CARATTERISTICHE</b>
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Bitcoin in BTC, mBTC e µBTC.
+• Mostra l'ammontare di Bitcoin in BTX, mBTX e µBTX.
 • Conversione verso e dalle monete nazionali.
 • Invio e ricevimento di Bitcoin tramite NFC, codici QR o URL Bitcoin.
 • Rubrica degli indirizzi per usare indirizzi Bitcoin regolarmente.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>TESTIMONIANZE</b>
 
-• Molti portafogli mobile basano il loro codice su Bitcoin Wallet. Esempi: blockchain.info e BTCX.
+• Molti portafogli mobile basano il loro codice su Bitcoin Wallet. Esempi: blockchain.info e BTXX.
 • Portafoglio mobile raccomandato da https://bitcoin.org
 • Raccomandato da BitPay.
 

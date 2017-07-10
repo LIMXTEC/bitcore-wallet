@@ -1,4 +1,7 @@
 .gradle/
+gradle/
+gradlew
+gradlew.bat
 build/
 local.properties
 .classpath
@@ -8,3 +11,5 @@ local.properties
 *.iml
 bin/
 gen/
+.DS_Store
+*.apk

@@ -4,7 +4,7 @@
 <b>CARACTERÍSTIQUES</b>
 
 • Sense enregistrar-se ni amb necessitat d'un servei web o al núvol!. Aquesta cartera és descentralitzada i de parell a parell.
-• Mostra l'import de bitcoin en BTC, mBTC i µBTC.
+• Mostra l'import de bitcoin en BTX, mBTX i µBTX.
 • Conversió cap a i des de divises nacionals.
 • Enviar i rebre bitcoins a través d'NFC, codis QR i adreces Bitcoin.
 • Llibreta d'adreces per a les adreces utilitzades regularment.
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>TESTIMONIS</b>
 
-• Moltes carteres mòbils basen el seu codi en la Cartera Bitcoin. Exemples: blockchain.info i BTCX.
+• Moltes carteres mòbils basen el seu codi en la Cartera Bitcoin. Exemples: blockchain.info i BTXX.
 • Cartera mòbil recomanada per https://bitcoin.org
 • Recomanada per BitPay.
 
